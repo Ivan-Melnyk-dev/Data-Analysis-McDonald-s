@@ -37,7 +37,7 @@ The goal was to analyze **McDonald’s sales performance in South America (2022)
 ---
 
 ## 📈 Dashboard Overview  
-![McDonald's Dashboard](./dashboard.png)
+https://github.com/Ivan-Melnyk-dev/Data-Analysis-McDonald-s/blob/main/Screenshot%20Dashboard.png
 
 ---
 
